@@ -10,7 +10,7 @@
 
 ### [rFlix](https://github.com/thisismydisplay/rflix)
 
-![Screen Shot 2022-06-22 at 2 35 21 PM](https://user-images.githubusercontent.com/66559149/175142010-62b53b83-3b1c-4209-b40d-b22115545cf7.png)
+![Screen Shot 2022-07-13 at 11 11 05 AM](https://user-images.githubusercontent.com/66559149/178781532-1dc1b5cb-1095-4f62-9dba-e661b22aaadf.png)
 
 ### [lofidelity](https://github.com/starsabhi/lofidelity)
 

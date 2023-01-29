@@ -9,7 +9,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisismydisplay&show_icons=true&locale=en" alt="thisismydisplay" /></p>
 
-## Current Projects:
+## Projects:
 
 ### [rFlix](https://github.com/thisismydisplay/rflix)
 
@@ -19,7 +19,7 @@
 
 ![Screen Shot 2022-06-22 at 2 39 50 PM](https://user-images.githubusercontent.com/66559149/175142348-7f504dc8-ac8e-41a1-ae53-e24492ff38b5.png)
 
-### [BetterNote](https://github.com/thisismydisplay/better-note)
+<!-- ### [BetterNote](https://github.com/thisismydisplay/better-note) -->
 
-![Screen Shot 2022-06-22 at 2 43 43 PM](https://user-images.githubusercontent.com/66559149/175142365-e1cc9414-74a1-4b92-8e1a-3c757665b3da.png)
+<!-- ![Screen Shot 2022-06-22 at 2 43 43 PM](https://user-images.githubusercontent.com/66559149/175142365-e1cc9414-74a1-4b92-8e1a-3c757665b3da.png) -->
 

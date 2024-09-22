@@ -44,12 +44,12 @@
       alt="mysql" width="40" height="40" /> </a>
 </p>
 
-
+<!-- 
 ![Snake animation](https://github.com/thisismydisplay/thisismydisplay/blob/output/github-contribution-grid-snake.svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisismydisplay&show_icons=true&locale=en" alt="thisismydisplay" /></p>
 
-<!-- ## Projects:
+## Projects:
 
 ### [rFlix](https://github.com/thisismydisplay/rflix)
 

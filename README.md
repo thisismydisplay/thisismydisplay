@@ -49,7 +49,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisismydisplay&show_icons=true&locale=en" alt="thisismydisplay" /></p>
 
-## Projects:
+<!-- ## Projects:
 
 ### [rFlix](https://github.com/thisismydisplay/rflix)
 
